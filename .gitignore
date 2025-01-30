@@ -6,3 +6,7 @@ dist/
 build/
 _build/
 *.pyc
+mini_ros/stl/OpenQuadruped/BACK.stl
+mini_ros/stl/OpenQuadruped/FRONT.stl
+spotmicro/util/pybullet_data/assets/urdf/stl/OpenQuadruped/BACK.stl
+spotmicro/util/pybullet_data/assets/urdf/stl/OpenQuadruped/FRONT.stl
